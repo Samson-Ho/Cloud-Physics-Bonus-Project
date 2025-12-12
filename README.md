@@ -8,6 +8,6 @@
 - Institution: National Taiwan University
 - Lecturer: Jen-Ping Chen
 
-### Author: Sun-Hsing Ho
+## Author: Sun-Hsing Ho
 - Email: b13209041@g.ntu.edu.tw
 - ORCID: https://orcid.org/0009-0002-1134-299X
