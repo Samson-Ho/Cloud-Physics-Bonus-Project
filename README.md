@@ -12,6 +12,7 @@
 - Email: b13209041@g.ntu.edu.tw
 - ORCID: https://orcid.org/0009-0002-1134-299X
 
-## Data Source
-ERA5 Reanalysis monthly mean
+## Data
+- Source: ERA5 Reanalysis monthly mean
+- Domain: [105E, 145E], [0, 40N]
 - info of the data: [`‎raw-dump.txt‎`](#‎raw-dump.txt‎)
