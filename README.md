@@ -16,3 +16,6 @@
 - Source: ERA5 Reanalysis monthly mean
 - Domain: [105E, 145E], [0, 40N]
 - info of the data: [`‎raw-dump.txt‎`](#‎raw-dump.txt‎)
+
+## Output Animation
+-
