@@ -14,4 +14,4 @@
 
 ## Data Source
 ERA5 Reanalysis monthly mean
-- info of the data: https://github.com/Samson-Ho/Cloud-Physics-Bonus-Project/commit/fd8192e2219186710492809b6e23e0d21fafb1db
+- info of the data: raw-dump.txt‎
