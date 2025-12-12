@@ -2,7 +2,7 @@
 雲物理學續命丹
 
 
-## Course Info: 
+## Course Info
 - Cloud Physics (雲物理學)
 - 2025 Fall (114-1)
 - Institution: National Taiwan University
@@ -11,3 +11,6 @@
 ## Author: Sun-Hsing Ho
 - Email: b13209041@g.ntu.edu.tw
 - ORCID: https://orcid.org/0009-0002-1134-299X
+
+## Data Source
+ERA5 Reanalysis monthly mean
